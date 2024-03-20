@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Furkan Genç</h1>
 <h3 align="center">Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Web Scraping**
+- 🔭 I’m currently working on **Online Mobile Games**
 
 - 🌱 I’m currently learning **Python,React,ASP.NET,Flutter,Swift**
 
