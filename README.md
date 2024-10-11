@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/tahafgenc" target="blank"><img src="https://img.shields.io/twitter/follow/tahafgenc?logo=twitter&style=for-the-badge" alt="tahafgenc" /></a> </p>
 
-- 🔭 I’m currently working on **Dynamic Mobile Apps**
+- 🔭 I’m currently working on **Dynamic Mobile Apps and Backend**
 
-- 🌱 I’m currently learning **React,ASP.NET,Swift**
+- 🌱 I’m currently learning **React,ASP.NET,React Native, RPA**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
