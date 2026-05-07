@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Taha Furkan Genç
+# 👋 Merhaba, Ben Taha Furkan Genç
 
-**AI & Backend Developer | MSc Student at Sakarya University**
+**Yapay Zeka & Backend Geliştiricisi | Sakarya Üniversitesi'nde Yüksek Lisans Öğrencisi**
 
-I am a Computer Engineer focusing on integrating artificial intelligence models with robust backend architectures. Moving beyond traditional software development, I heavily embrace **"vibe coding"**; I work synchronously with tools like OpenAI Codex, GitHub Copilot, and various autonomous AI agents (Agentic AI) to accelerate development pipelines and craft innovative solutions.
+Yapay zeka modellerini güçlü backend mimarileriyle entegre etmeye odaklanan bir bilgisayar mühendisiyim. Geleneksel yazılım geliştirme süreçlerinin ötesine geçerek **"vibe coding"** yaklaşımını benimsiyorum; kod yazarken OpenAI Codex, GitHub Copilot ve çeşitli otonom AI ajanlarıyla (Agentic AI) senkronize bir şekilde çalışarak geliştirme süreçlerini hızlandırıyor ve yenilikçi çözümler üretiyorum.
 
-### 🚀 What I Do
-- **AI & Research:** I focus on Agentic AI architectures, Large Language Models (LLMs), 1-bit model quantization, and QLoRA/LoRA fine-tuning techniques.
-- **Backend & Architecture:** I design scalable, high-performance web services utilizing Python (FastAPI) and the .NET ecosystem (C#, ASP.NET Core, Entity Framework Core).
-- **R&D Projects:** I developed a computer vision and Gemini API integrated project under the TÜBİTAK 2209-A program (MobiBes). I am also currently working as a researcher on a TÜSEB-supported project focused on LLM integration.
+### 🚀 Neler Yapıyorum?
+- **AI & Araştırma:** Agentic AI mimarileri, Büyük Dil Modelleri (LLM), 1-bit model kuantizasyonu ve QLoRA/LoRA fine-tuning işlemleri üzerine çalışıyorum.
+- **Backend & Mimari:** Python (FastAPI) ve .NET (C#, ASP.NET Core, Entity Framework Core) ekosistemlerinde ölçeklenebilir ve performanslı servisler tasarlıyorum.
+- **Ar-Ge Projeleri:** TÜBİTAK 2209-A (MobiBes) kapsamında bilgisayarlı görü ve Gemini API entegreli projeler geliştirdim. Ayrıca TÜSEB destekli, LLM entegrasyonu odaklı araştırma projesinde araştırmacı olarak görev alıyorum.
 
-### 💻 Tech Stack & Tools
+### 💻 Teknoloji & Araç Yığınım
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -21,14 +21,14 @@ I am a Computer Engineer focusing on integrating artificial intelligence models 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📈 GitHub Stats
+### 📈 GitHub İstatistiklerim
 
 [![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahafurkangenc&show_icons=true&theme=radical&hide_border=true)](https://github.com/tahafurkangenc)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahafurkangenc&layout=compact&theme=radical&hide_border=true)](https://github.com/tahafurkangenc)
 
-### 📫 Let's Connect
+### 📫 İletişim & CV
 - **Email:** tahafurkangenc@gmail.com
-- **Detailed CV:** [TahaFurkanGencCV](https://github.com/tahafurkangenc/TahaFurkanGencCV)
+- **Detaylı CV:** [TahaFurkanGencCV](https://github.com/tahafurkangenc/TahaFurkanGencCV)
 
 <br>
 
