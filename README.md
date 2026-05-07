@@ -1,39 +1,43 @@
-<h1 align="center">Hi 👋, I'm Taha Furkan Genç</h1>
-<h3 align="center">AI & Backend Developer | MSc Student at Sakarya University</h3>
+# 👋 Hi, I'm Taha Furkan Genç
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=tahafurkangenc&label=Profile%20views&color=000000&style=flat" alt="tahafurkangenc" /> 
-  <a href="https://twitter.com/tahafgenc" target="blank"><img src="https://img.shields.io/twitter/follow/tahafgenc?logo=twitter&style=flat" alt="tahafgenc" /></a> 
-</p>
+**AI & Backend Developer | MSc Student at Sakarya University**
 
-- 🔭 I’m currently working on **AI-driven Backend Systems, LLMs, and .NET/FastAPI architectures**
-- 🌱 I’m currently diving deeper into **Agentic AI, Model Quantization (1-bit), and QLoRA/LoRA fine-tuning**
-- 🎓 Pursuing my Master's Degree in Computer Engineering at **Sakarya University** (BSc from **Kocaeli University**)
-- 💼 Worked on **TÜBİTAK 2209-A (MobiBes)** and **TÜSEB-supported LLM integration** research projects
-- 📫 How to reach me: **tahafurkangenc@gmail.com**
-- 📄 Check out my detailed CV: [TahaFurkanGencCV](https://github.com/tahafurkangenc/TahaFurkanGencCV)
+I am a Computer Engineer focusing on integrating artificial intelligence models with robust backend architectures. Moving beyond traditional software development, I heavily embrace **"vibe coding"**; I work synchronously with tools like OpenAI Codex, GitHub Copilot, and various autonomous AI agents (Agentic AI) to accelerate development pipelines and craft innovative solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tahafgenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahafgenc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tahafurkangenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahafurkangenc" height="30" width="40" /></a>
-<a href="https://instagram.com/tahafurkangenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahafurkangenc" height="30" width="40" /></a>
-</p>
+### 🚀 What I Do
+- **AI & Research:** I focus on Agentic AI architectures, Large Language Models (LLMs), 1-bit model quantization, and QLoRA/LoRA fine-tuning techniques.
+- **Backend & Architecture:** I design scalable, high-performance web services utilizing Python (FastAPI) and the .NET ecosystem (C#, ASP.NET Core, Entity Framework Core).
+- **R&D Projects:** I developed a computer vision and Gemini API integrated project under the TÜBİTAK 2209-A program (MobiBes). I am also currently working as a researcher on a TÜSEB-supported project focused on LLM integration.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-</p>
+### 💻 Tech Stack & Tools
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tahafurkangenc&show_icons=true&theme=radical" alt="tahafurkangenc stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahafurkangenc&show_icons=true&locale=en&layout=compact&theme=radical" alt="tahafurkangenc top langs" />
-</p>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![OpenAI](https://img.shields.io/badge/AI%20Agents%20&%20Codex-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📈 GitHub Stats
+
+[![Taha's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahafurkangenc&show_icons=true&theme=radical&hide_border=true)](https://github.com/tahafurkangenc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahafurkangenc&layout=compact&theme=radical&hide_border=true)](https://github.com/tahafurkangenc)
+
+### 📫 Let's Connect
+- **Email:** tahafurkangenc@gmail.com
+- **Detailed CV:** [TahaFurkanGencCV](https://github.com/tahafurkangenc/TahaFurkanGencCV)
+
+<br>
+
+<a href="https://linkedin.com/in/tahafurkangenc" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/tahafgenc" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://instagram.com/tahafurkangenc" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
