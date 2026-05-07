@@ -10,7 +10,6 @@
 - 🌱 I’m currently diving deeper into **Agentic AI, Model Quantization (1-bit), and QLoRA/LoRA fine-tuning**
 - 🎓 Pursuing my Master's Degree in Computer Engineering at **Sakarya University** (BSc from **Kocaeli University**)
 - 💼 Worked on **TÜBİTAK 2209-A (MobiBes)** and **TÜSEB-supported LLM integration** research projects
-- ⚡ Fun fact: I produce science-themed rap music (check out *Hadron x Lepton*!) and love brewing specialty espresso. ☕🎶
 - 📫 How to reach me: **tahafurkangenc@gmail.com**
 - 📄 Check out my detailed CV: [TahaFurkanGencCV](https://github.com/tahafurkangenc/TahaFurkanGencCV)
 
