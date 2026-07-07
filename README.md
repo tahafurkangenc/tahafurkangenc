@@ -31,12 +31,13 @@ I am a **Computer Engineer** specializing in bridging the gap between advanced a
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 Agentic AI & LLMs</h4>
+      <h4>🤖 AI & Research</h4>
       <ul>
         <li>Autonomous agent architectures & multi-agent systems</li>
         <li>1-bit LLM model quantization for edge deployment</li>
         <li>Fine-tuning models using QLoRA/LoRA</li>
         <li>Currently a researcher on a <strong>TÜSEB-supported</strong> LLM integration project</li>
+        <li>Previously led the <strong>TÜBİTAK 2209-A (MobiBes)</strong> computer vision project</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -50,9 +51,6 @@ I am a **Computer Engineer** specializing in bridging the gap between advanced a
     </td>
   </tr>
 </table>
-
-> [!NOTE]
-> Previously, I led the **TÜBİTAK 2209-A (MobiBes)** project, focusing on mobile-based computer vision for health applications.
 
 ---
 
