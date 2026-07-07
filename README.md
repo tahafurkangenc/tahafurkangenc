@@ -78,10 +78,10 @@ I am a **Computer Engineer** specializing in bridging the gap between advanced a
 
 <p align="center">
   <a href="https://github.com/tahafurkangenc">
-    <img src="https://github-readme-stats.vercel.app/api?username=tahafurkangenc&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff" alt="Taha's GitHub Stats" width="48%" align="left" />
+    <img src="https://github-stats-extended.vercel.app/api?username=tahafurkangenc&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff" alt="Taha's GitHub Stats" width="48%" align="left" />
   </a>
   <a href="https://github.com/tahafurkangenc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahafurkangenc&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff" alt="Taha's Top Languages" width="48%" align="right" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tahafurkangenc&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff" alt="Taha's Top Languages" width="48%" align="right" />
   </a>
 </p>
 
